@@ -76,7 +76,7 @@ This readme will break down the exercises completed during the data scientist tr
 ```
 
 ```
-[ ]	a  is of type  int,  b  is of type  str,  c  is of type  bool
+[ ] a  is of type  int,  b  is of type  str,  c  is of type  bool
 [ ] a  is of type  float,  b  is of type  bool,  c  is of type  str
 [x] a  is of type  float,  b  is of type  str,  c  is of type  bool
 [ ] a  is of type  int,  b  is of type  bool,  c  is of type  str
